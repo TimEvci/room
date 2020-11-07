@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ab34170-f054-4132-9282-e92d10ea4a99" name="Default Changelist" comment="" />
+    <list default="true" id="8ab34170-f054-4132-9282-e92d10ea4a99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,13 +37,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jyOTBgyNRS4YZLjvY1n3BPH5i1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
@@ -38,12 +66,47 @@
       <option name="presentableId" value="Default" />
       <updated>1604772869438</updated>
       <workItem from="1604772870502" duration="2963000" />
-      <workItem from="1604775965525" duration="590000" />
+      <workItem from="1604775965525" duration="4044000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1604776713595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604776713595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="798" y="270" width="935" height="494" key="#File_Watchers" timestamp="1604775161053">
@@ -54,9 +117,21 @@
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state x="500" y="189" width="909" height="676" key="EditFileWatcherDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1604775146086" />
+    <state x="311" y="135" width="338" height="231" key="Github.ShareDialog" timestamp="1604776615169">
+      <screen x="0" y="0" width="960" height="517" />
+    </state>
+    <state x="311" y="135" width="338" height="231" key="Github.ShareDialog/0.0.960.517@0.0.960.517" timestamp="1604776615169" />
+    <state x="239" y="-31" key="Github.UntrackedFilesDialog" timestamp="1604776630870">
+      <screen x="0" y="0" width="960" height="517" />
+    </state>
+    <state x="239" y="-31" key="Github.UntrackedFilesDialog/0.0.960.517@0.0.960.517" timestamp="1604776630870" />
     <state x="211" y="0" key="SettingsEditor" timestamp="1604775503613">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state x="211" y="0" key="SettingsEditor/0.0.1920.1035@0.0.1920.1035" timestamp="1604775503613" />
+    <state x="80" y="-31" key="Vcs.Push.Dialog.v2" timestamp="1604776725739">
+      <screen x="0" y="0" width="960" height="517" />
+    </state>
+    <state x="80" y="-31" key="Vcs.Push.Dialog.v2/0.0.960.517@0.0.960.517" timestamp="1604776725739" />
   </component>
 </project>
