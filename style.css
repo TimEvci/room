@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: "Spartan", sans-serif;
+  font-size: 12px;
+}
+
+body {
+  font-size: 1rem;
+}
+
+#header-bg {
+  background: url("images/desktop-image-hero-1.jpg");
+  background-size: cover;
+}
+
+header {
+  width: 66%;
+  height: 90vh;
+}
+header nav {
+  padding-left: 5rem;
+  padding-top: 4rem;
+  display: flex;
+}
+header nav ul {
+  margin-left: 2rem;
+  list-style: none;
+  display: flex;
+}
+header nav ul li {
+  margin-right: 1rem;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

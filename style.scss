@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@500;600;700&display=swap');
+
+$color-primary:hsl(0, 0%, 63%);
+$color-primary_dark:hsl(0, 0%, 27%);
+$color-white:hsl(0, 0%, 100%);
+$color-black:hsl(0, 0%, 0%);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html{
+  box-sizing: border-box;
+  font-family: 'Spartan', sans-serif;
+  font-size: 12px;
+}
+
+body{
+  font-size: 1rem;
+}
+
+#header-bg{
+  background: url("images/desktop-image-hero-1.jpg");
+  background-size: cover;
+}
+
+header{
+  width: 66%;
+  height: 90vh;
+  nav{
+    padding-left: 5rem;
+    padding-top: 4rem;
+    display: flex;
+    ul{
+      margin-left: 2rem;
+      list-style: none;
+      display: flex;
+      li{
+        margin-right: 1rem;
+        color: $color-white;
+      }
+    }
+  }
+}
